@@ -1,2 +1,2 @@
 # MiniLobby
-Documentation for the MiniLobby plugin on Spigot.
+MiniLobby is an all-in-one, highly customizable lobby and cosmetics plugin for Bukkit/Spigot servers. This page is solely for developers because it provides information on how to use the built-in API. Because MiniLobby is a premium plugin, you will not find any sort of source code on this page. MiniLobby is built to contain an easy yet customizable API so developers can easily hook into MiniLobby with their own plugins or create addons.
